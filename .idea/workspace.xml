@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b3f91fc-1ed0-4f54-9702-9422e36a39d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.302303028245932" />
+      <entry key="MS500" value="2.7445529467955194" />
+      <entry key="S2" value="4.37598133806865" />
+      <entry key="S5" value="6.7377176416211375" />
+      <entry key="S10" value="8.671608199758348" />
+      <entry key="S30" value="14.240453391210306" />
+      <entry key="S60" value="30.251592050177255" />
+      <entry key="M2" value="66.56152059539909" />
+      <entry key="M5" value="134.82537019070875" />
+      <entry key="M10" value="206.48315059879735" />
+      <entry key="M15" value="259.9209842345056" />
+      <entry key="M30" value="358.13732222193823" />
+      <entry key="H1" value="440.7598271977648" />
+      <entry key="H2" value="496.0078860608914" />
+      <entry key="H4" value="528.2089472042666" />
+      <entry key="D1" value="557.7660690661553" />
+      <entry key="W1" value="563.1025857183688" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.299256983879775E-197" />
+      <entry key="S5" value="4.325601908294405E-79" />
+      <entry key="S10" value="1.0562117916678661E-39" />
+      <entry key="S30" value="2.0732212614222854E-13" />
+      <entry key="S60" value="7.959936962066284E-7" />
+      <entry key="M2" value="0.0017699247787601822" />
+      <entry key="M5" value="0.3015999721525561" />
+      <entry key="M10" value="2.463511920676592" />
+      <entry key="M15" value="5.447350860095178" />
+      <entry key="M30" value="12.785371568217068" />
+      <entry key="H1" value="20.062436111214996" />
+      <entry key="H2" value="25.28594065104915" />
+      <entry key="H4" value="28.431054451782266" />
+      <entry key="D1" value="31.37326741778518" />
+      <entry key="W1" value="31.909650785673918" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2493706743401884" />
+      <entry key="MS500" value="2.7224350882061894" />
+      <entry key="S2" value="4.367489766452399" />
+      <entry key="S5" value="6.732694817221481" />
+      <entry key="S10" value="8.668323399521647" />
+      <entry key="S30" value="14.237479126631035" />
+      <entry key="S60" value="30.2461394170533" />
+      <entry key="M2" value="66.55545867004352" />
+      <entry key="M5" value="135.11050453181883" />
+      <entry key="M10" value="208.9146995149568" />
+      <entry key="M15" value="265.329092701643" />
+      <entry key="M30" value="370.8829406124456" />
+      <entry key="H1" value="460.79287431996636" />
+      <entry key="H2" value="521.2757849958689" />
+      <entry key="H4" value="556.629981893483" />
+      <entry key="D1" value="589.1375115576824" />
+      <entry key="W1" value="595.0119717745598" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MVzVVrnGeaXVpGJU5QBCpKGdB6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/keert/OneDrive/Desktop/java/DSA with Java/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.OneDArray.Search.BinarySearch" />
+      <module name="DSA with Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.OneDArray.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.OneDArray.Search.LinearSearch" />
+      <module name="DSA with Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.OneDArray.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3f91fc-1ed0-4f54-9702-9422e36a39d9" name="Changes" comment="" />
+      <created>1795450549244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795450549244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
